@@ -3,7 +3,13 @@
 #+author: Bram Van Rompuy
 #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
-* Boleroo
+* Task List
+** TODO Broker Info [1/3]
+- [X] Bolero
+- [-] Deutche Bank
+- [ ] ING Self Invest
+
+* Bolero
 ** Beheer van rekening en portefeuille
 | Openen rekening     | Gratis                                                           |
 | Opzegging rekening  | Gratis                                                           |
@@ -32,7 +38,8 @@
 
 
 ** Beurstax
-***
+0.35% / 0.12% voor aandelen en trackers
+1.32% voor bepaalde trackers zoals VWCE
 
 * Deutsche Bank
 ** Beheer van rekening en portefeuille
