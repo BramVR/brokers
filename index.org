@@ -3,21 +3,21 @@
 #+author: Bram Van Rompuy
 #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
-* Task List
-** TODO Broker Info [1/3]
+
+* TODO Broker Info [2/3]
 - [X] Bolero
-- [-] Deutche Bank
+- [X] Deutche Bank
 - [ ] ING Self Invest
 
 * Bolero
 ** Beheer van rekening en portefeuille
-| Openen rekening     | Gratis                                                           |
-| Opzegging rekening  | Gratis                                                           |
-| Bewaarloon          | Gratis                                                           |
-| Beheerskost         | Gratis                                                           |
-| Ink. Transfer       | Gratis                                                           |
-| Uitgaand Transfer   | Gratis naar KBC, ander: 50 Euro                                  |
-| Inningskost coupons | Aandeel: Belgisch -> Gratis Aandeel: Buitenlands -> 2% (max 125) |
+| Openen rekening     | Gratis                                                              |
+| Opzegging rekening  | Gratis                                                              |
+| Bewaarloon          | Gratis                                                              |
+| Beheerskost         | Gratis                                                              |
+| Ink. Transfer       | Gratis                                                              |
+| Uitgaand Transfer   | Gratis naar KBC, ander: 50 Euro                                     |
+| Inningskost coupons | Aandeel: Belgisch -> Gratis // Aandeel: Buitenlands -> 2% (max 125) |
 ** Makelaarslonen
 *** AANDELEN, TRACKERS, WARRANTS, TURBO’S, SPRINTERS, BEURSGENOTEERDE OBLIGATIES EN
 |                                                                                                           | *T.e.m €/$ 2.500* | *€ 2.500,01 t.e.m € 70.000*     | *Boven € 70.000*                  |
@@ -34,16 +34,51 @@
 | *OFFLINE MARKTEN*                                                                                         |                   |                                 |                                   |
 | /Griekenland, Ierland, Zuid-Afrika, Australië  Hong Kong, Japan, .../                                     | *1% (min. € 75)*  | *1% (min. € 75)*                | *1% (min. € 75)*                  |
 
+- Kosten lijken per trnasactie te zijn. Koop + verkoop. Zie ook FAQ: https://www.bolero.be/nl/support/veelgestelde-vragen/hoe-lees-ik-de-kostensimulatie-voor-aankoop-van-een-aandeel
+#+begin_quote
+Stel, u wenst 25 aandelen KBC aan te kopen aan een limietkoers van 58 EUR.
+
+Bij de kostensimulatie van uw order ziet u een inschatting van het makelaarsloon en de beurstaks die u voor dit specifieke order zou moeten betalen.
+
+Vervolgens ziet u eronder de impact van de kosten en taksen op uw rendement. Hierbij wordt zowel rekening gehouden met de kosten bij aankoop als met die bij een eventuele verkoop na 1 jaar.
+
+Bij een verkoop van deze 25 aandelen zult u nog eens makelaarsloon en beurstaks verschuldigd zijn. Zo ziet u dat de kosten voor de beleggingsdiensten Bolero inclusief de taksen in totaal (na aankoop en verkoop na 1 jaar) geschat 25,16 EUR bedragen. Ten opzichte van uw initiële investering van 1.450 EUR, is dit 1,74%. De kosten en taksen wegen dus voor 1,74% op uw rendement. Pas vanaf een rendement hoger dan dit percentage, maakt u winst.
+
+Aangezien dit aandeel in euro noteert en u uw order in euro afrekent, is er geen wisselkoersmarge van toepassing. Als u een aandeel dat noteert in dollar, in euro zou laten afrekenen, dan zal er bij de berekening van de impact van de kosten en taksen op uw rendement van uitgegaan worden dat u zowel voor de aankoop als voor de verkoop een afrekening in euro wenst. In dat geval zal er dus twee keer wisselkoersmarge geteld worden.
+
+#+end_quote
 
 
-
-** Beurstax
-0.35% / 0.12% voor aandelen en trackers
-1.32% voor bepaalde trackers zoals VWCE
+** Beurstaks
+- 0.35% / 0.12% voor aandelen en trackers
+- 1.32% voor bepaalde trackers die deel uiotmaken van openbaar aanbod in België (zoals VWCE)
 
 * Deutsche Bank
 ** Beheer van rekening en portefeuille
+| Openen rekening     | Gratis                                                |
+| Opzegging rekening  | Gratis                                                |
+| Bewaarloon          | € 12 (per jaar)                                       |
+| Beheerskost         | €5.30 (per maand) // Gratis bij vermogen boven 50.000 |
+| Ink. Transfer       | Gratis                                                |
+| Uitgaand Transfer   | Gratis naar DB, ander: 60 Euro                        |
+| Inningskost coupons | ?                                                     |
+
 
 ** Makelaarslonen
+*** AANDELEN, TRACKERS, WARRANTS
+|                     | *T.e.m €/$ 2.500*        | *€ 2.500,01 t.e.m € 5.000* | *Boven € 5.001*                 |
+| *EURONEXT*          |                          |                            |                                 |
+| /Euronext Brussel/  | *€ 7,5* per verrichting  | *€ 24* per verrichting     | *€ 24 per schijf van 20.000*    |
+| *EURONEXT*          |                          |                            |                                 |
+| /Parijs, Amsterdam/ | *€ 9,75* per verrichting | *€ 14,75* per verrichting  | *€ 24 per schijf van 20.000*    |
+| *ANDERE*            | //                       | *€ 24,75* per verrichting  | *€ 29,75 per schijf van 20.000* |
+
+
+** Beurstaks
+- 0.35% voor aandelen
+- 0.12% voor trackers
+- 1.32% voor trackers die deel uitmaken van opeunbaar aanbod in België (zoals VWCE)
+
+
 
 * ING Self Invest
