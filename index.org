@@ -4,25 +4,25 @@
 #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 
-* TODO Broker Info [2/3]
+* DONE Broker Info [3/3]
 - [X] Bolero
 - [X] Deutche Bank
-- [ ] ING Self Invest
+- [X] ING Self Invest
 
 * Bolero
 ** Beheer van rekening en portefeuille
-| Openen rekening     | Gratis                                                              |
-| Opzegging rekening  | Gratis                                                              |
-| Bewaarloon          | Gratis                                                              |
-| Beheerskost         | Gratis                                                              |
-| Ink. Transfer       | Gratis                                                              |
-| Uitgaand Transfer   | Gratis naar KBC, ander: 50 Euro                                     |
-| Inningskost coupons | Aandeel: Belgisch -> Gratis // Aandeel: Buitenlands -> 2% (max 125) |
+| Openen rekening     | Gratis                                            |
+| Opzegging rekening  | Gratis                                            |
+| Bewaarloon          | Gratis                                            |
+| Beheerskost         | Gratis                                            |
+| Ink. Transfer       | Gratis                                            |
+| Uitgaand Transfer   | Gratis naar KBC, ander: € 50                       |
+| Inningskost coupons | Belgisch -> Gratis // Buitenlands -> 2% (max 125) |
 ** Makelaarslonen
-*** AANDELEN, TRACKERS, WARRANTS, TURBO’S, SPRINTERS, BEURSGENOTEERDE OBLIGATIES EN
+AANDELEN, TRACKERS, WARRANTS, TURBO’S, SPRINTERS, BEURSGENOTEERDE OBLIGATIES EN
 |                                                                                                           | *T.e.m €/$ 2.500* | *€ 2.500,01 t.e.m € 70.000*     | *Boven € 70.000*                  |
 | *EURONEXT*                                                                                                |                   |                                 |                                   |
-| /Euronext Brussel, Parijs, Amsterdam, Lissabon, Dublin/                                                   | *€ 7,5*           | *€ 15 / € 10.000 (max. €50)*    | *€ 50 +€ 15 / extra € 10.000*     |
+| /Brussel, Parijs, Amsterdam, Lissabon, Dublin/                                                    | *€ 7,5*           | *€ 15 / € 10.000 (max. €50)*    | *€ 50 +€ 15 / extra € 10.000*     |
 | *AMERIKA*                                                                                                 |                   |                                 |                                   |
 | /NYSE, NYSE Amex, NYSE MKT, Nasdaq, OTC BB/                                                               | *$ 15*            | *$ 20 / $ 10.000(max. $ 50)*    | *$ 50 + $ 20 /extra $10.000*      |
 | *CANADA*                                                                                                  |                   |                                 |                                   |
@@ -60,15 +60,15 @@ Aangezien dit aandeel in euro noteert en u uw order in euro afrekent, is er geen
 | Bewaarloon          | € 12 (per jaar)                                       |
 | Beheerskost         | €5.30 (per maand) // Gratis bij vermogen boven 50.000 |
 | Ink. Transfer       | Gratis                                                |
-| Uitgaand Transfer   | Gratis naar DB, ander: 60 Euro                        |
+| Uitgaand Transfer   | Gratis naar DB, ander: € 60                           |
 | Inningskost coupons | ?                                                     |
 
 
 ** Makelaarslonen
-*** AANDELEN, TRACKERS, WARRANTS
+AANDELEN, TRACKERS, WARRANTS
 |                     | *T.e.m €/$ 2.500*        | *€ 2.500,01 t.e.m € 5.000* | *Boven € 5.001*                 |
 | *EURONEXT*          |                          |                            |                                 |
-| /Euronext Brussel/  | *€ 7,5* per verrichting  | *€ 24* per verrichting     | *€ 24 per schijf van 20.000*    |
+| /Brussel/   | *€ 7,5* per verrichting  | *€ 24* per verrichting     | *€ 24 per schijf van 20.000*    |
 | *EURONEXT*          |                          |                            |                                 |
 | /Parijs, Amsterdam/ | *€ 9,75* per verrichting | *€ 14,75* per verrichting  | *€ 24 per schijf van 20.000*    |
 | *ANDERE*            | //                       | *€ 24,75* per verrichting  | *€ 29,75 per schijf van 20.000* |
@@ -77,8 +77,28 @@ Aangezien dit aandeel in euro noteert en u uw order in euro afrekent, is er geen
 ** Beurstaks
 - 0.35% voor aandelen
 - 0.12% voor trackers
-- 1.32% voor trackers die deel uitmaken van opeunbaar aanbod in België (zoals VWCE)
+- 1.32% voor trackers die deel uitmaken van openbaar aanbod in België (zoals VWCE)
 
 
 
 * ING Self Invest
+** Beheer van rekening en portefeuille
+| Openen rekening     | ING Lion account nodig:  € 1,90 per maand |
+| Opzegging rekening  | Gratis                                    |
+| Bewaarloon          | 0,0242% min. € 0,3025 (per maand)         |
+| Beheerskost         | Gratis                                    |
+| Ink. Transfer       | Gratis                                    |
+| Uitgaand Transfer   | Gratis naar ING, ander: € 60,5            |
+| Inningskost coupons | Gratis                                    |
+
+** Makelaarslonen
+AANDELEN, TRACKERS, WARRANTS
+|                              | *T.e.m €/$ 2.500*                            | *€ 2.500,01 t.e.m € 5.000*                 | *Boven € 5.001*                   |
+| *EURONEXT*                   |                                              |                                            |                                   |
+| /Brussel, Amsterdam, Parijs/ | *(0,35%) min. € 1 -> € 8,75* per verrichting | *(0,50%) € 8,75 -> € 17,5* per verrichting | *(0,50%) € 17,5+* per verrichting |
+| *ANDERE*                     | *(0.50%) min. € 1 -> € 12,5* per verrichting | *(0.50%) € 12,5 -> € 25* per verrichting   | *(0,50%) € 25+* per verrichting   |
+
+
+** Beurstaks
+- 0.35% voor aandelen
+- 0.12% voor trackers
